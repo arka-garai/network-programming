@@ -83,3 +83,11 @@ print("Generated Hamming Code :", hamming_code)
 received = input("Enter received Hamming code: ")
 corrected_code = hamming_checker(received)
 print("Corrected Hamming Code :", corrected_code)
+
+
+# output:
+# Enter binary data: 10011001
+# Generated Hamming Code : [1, 0, 0, 1, 0, 1, 0, 0, 0, 1, 0, 1]
+# Enter received Hamming code: 101100100101
+# Error detected at position: 11
+# Corrected Hamming Code : [1, 1, 1, 1, 0, 0, 1, 0, 0, 1, 0, 1]
