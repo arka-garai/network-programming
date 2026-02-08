@@ -1,3 +1,4 @@
+# 3) Write a Python program to implement the Hamming code.
 def hamming_generator(data):
     data = list(map(int, data))
     k = len(data)
