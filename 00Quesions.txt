@@ -1,0 +1,22 @@
+Lab Assignment
+2025-2026
+
+1. Familiarization with basic network commands like hostname, getmac, netstat, netstat-a, netstat –sp udp, netstat –sp tcp, ipconfig, ipconfig/all, ping, ping –t, tracert, tracert –h 50, etc.
+
+2. Create an RJ45 straight and crossover cable with proper color code.
+
+3. Write a Python program to implement the Hamming code.
+
+4. Write a Python program to implement the Cyclic Redundancy Check (CRC) method.
+
+5. Write socket program in Python to send a message from a client machine to a server machine and a server machine to a client machine using TCP.
+
+6. Write chat program in Python using TCP with the help of an iterative server.
+
+7. Write socket program in Python for multi-client communication using TCP.
+
+8. Write socket program in Python to send a message from a client machine to a server machine using UDP.
+
+9. Write a Python program to implement Stop-and-Wait and Stop-and-Wait ARQ.
+
+10. Write a Python program to implement Go-Back-N and Selective Repeat ARQ.
